@@ -10,15 +10,15 @@
 
 ## ES6 & Evolution of JavaScript
 
-As the web becomes more advanced, the JavaScript language evolves and gains more features to support more complex browser capabilities. This is how we get newer versions of the language. In the current developer ecosystem, you'll hear people talking about ES5, ES6 and ES7 (E is for [ECMAScript](https://stackoverflow.com/questions/912479/what-is-the-difference-between-javascript-and-ecmascript).
+~~As the web becomes more advanced, the JavaScript language evolves and gains more features to support more complex browser capabilities. This is how we get newer versions of the language. In the current developer ecosystem, you'll hear people talking about ES5, ES6 and ES7 (E is for [ECMAScript](https://stackoverflow.com/questions/912479/what-is-the-difference-between-javascript-and-ecmascript).
 
-In Mod 1, you mostly learned JavaScript syntax that was introduced with the ES5 version. This version is widely supported by modern browsers, and includes things like your standard `var` and `function` declarations. Browser developers are still working on supporting newer versions like ES6 and ES7.
+~~In Mod 1, you mostly learned JavaScript syntax that was introduced with the ES5 version. This version is widely supported by modern browsers, and includes things like your standard `var` and `function` declarations. Browser developers are still working on supporting newer versions like ES6 and ES7.
 
-You may have come across some ES6 syntax throughout your independent study (including variable declarations like `let`, `const`, arrow functions, and even Classes). In Mod 2, we'll expect you to begin using ES6 features and syntax where appropriate. Read more about the following ES6 features from [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read):
+~~You may have come across some ES6 syntax throughout your independent study (including variable declarations like `let`, `const`, arrow functions, and even Classes). In Mod 2, we'll expect you to begin using ES6 features and syntax where appropriate. Read more about the following ES6 features from [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read):
 
-- From [Chapter 1: Block Bindings](https://leanpub.com/understandinges6/read#leanpub-auto-block-bindings), read:
+~~- From [Chapter 1: Block Bindings](https://leanpub.com/understandinges6/read#leanpub-auto-block-bindings), read:
   * the entire chapter
-- From [Chapter 3: Functions](https://leanpub.com/understandinges6/read#leanpub-auto-functions), read:
+~~- From [Chapter 3: Functions](https://leanpub.com/understandinges6/read#leanpub-auto-functions), read:
   * Functions with Default Parameter Values
   * Arrow Functions
 
@@ -37,9 +37,9 @@ You may have come across some ES6 syntax throughout your independent study (incl
 ------------------------------------------------------
 ## Array Prototype Methods: Iterators
 
-- Iterator methods are one of the key concepts of M2. For a preview of how iterators work, check out [this activity](https://replit.com/@kaylaewood/mod2iteratorpreview#index.js). Need help? Use [the array prototype iterators lesson](https://frontend.turing.edu/lessons/module-2/array-prototype-methods-iterators.html) and [the MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)!
+~~- Iterator methods are one of the key concepts of M2. For a preview of how iterators work, check out [this activity](https://replit.com/@kaylaewood/mod2iteratorpreview#index.js). Need help? Use [the array prototype iterators lesson](https://frontend.turing.edu/lessons/module-2/array-prototype-methods-iterators.html) and [the MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)!
 - Also, many students have found [this TreeHouse course](https://teamtreehouse.com/library/javascript-array-iteration-methods) to be helpful in their preparation for M2.
-- Please note that these activities are to get you thinking and start exposing you to the iterators - we don't expect you to already know/understand/be able to do all of this yet.  Do not beat yourself up if this feels overwhelming or hard. Write down your questions as they come and bring those questions with you to the iterators lesson!
+~~- Please note that these activities are to get you thinking and start exposing you to the iterators - we don't expect you to already know/understand/be able to do all of this yet.  Do not beat yourself up if this feels overwhelming or hard. Write down your questions as they come and bring those questions with you to the iterators lesson!
 ------------------------------------------------------
 
 ## Professional Development
